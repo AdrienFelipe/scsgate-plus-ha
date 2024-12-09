@@ -1,0 +1,13 @@
+{
+    "domain": "scsgate_plus",
+    "name": "SCSGate Plus",
+    "documentation": "https://github.com/AdrienFelipe/scsgate-plus-ha",
+    "requirements": [
+      "git+https://github.com/AdrienFelipe/scsgate-plus.git@master#egg=scsgate"
+    ],
+    "dependencies": [],
+    "codeowners": ["@AdrienFelipe"],
+    "version": "0.0.1",
+    "integration_type": "hub"
+  }
+  

@@ -1,0 +1,3 @@
+[submodule "custom_components/scsgate"]
+	path = custom_components/scsgate
+	url = https://github.com/AdrienFelipe/scsgate-plus.git
